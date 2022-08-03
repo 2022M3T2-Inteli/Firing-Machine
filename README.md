@@ -11,11 +11,11 @@
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/ana-clara-zaidan/">Ana Clara Loureiro Müller Zaidan</a>
 - <a href="https://www.linkedin.com/in//">Daniel Quintão Dávila</a>
-- <a href="https://www.linkedin.com/in//">Gabriel Metello Nascimento</a> 
-- <a href="https://www.linkedin.com/in//">Kil Matheus Gomes Teixeira</a> 
-- <a href="https://www.linkedin.com/in//">Lucas Henrique Sales de Souza</a>
+- <a href="https://www.linkedin.com/in/gabriel-nascimento-b80933217/">Gabriel Metello Nascimento</a> 
+- <a href="https://www.linkedin.com/in/kil-matheus-78257020a/">Kil Matheus Gomes Teixeira</a> 
+- <a href="https://www.linkedin.com/in/lucas-henrique-sales-de-souza/">Lucas Henrique Sales de Souza</a>
 - <a href="https://www.linkedin.com/in/mariana-silva-paula/">Mariana Silva de Paula</a> 
-- <a href="https://www.linkedin.com/in//">Vitória Rodrigues de Oliveira</a> 
+- <a href="https://www.linkedin.com/in/vitória-rodrigues-de-oliveira-bb955921b/">Vitória Rodrigues de Oliveira</a> 
 
 ## 📝 Descrição
 
