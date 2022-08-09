@@ -6,7 +6,7 @@
 
 # Turnover de funcionários
 
-## In & Out Devs
+## The Clavos
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/ana-clara-zaidan/">Ana Clara Loureiro Müller Zaidan</a>
