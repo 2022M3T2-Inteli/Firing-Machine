@@ -6,8 +6,7 @@
 
 # Turnover de funcionários
 
-## The Clavos
-
+## Firing Machine
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/ana-clara-zaidan/">Ana Clara Loureiro Müller Zaidan</a>
 - <a href="https://www.linkedin.com/in//">Daniel Quintão Dávila</a>
