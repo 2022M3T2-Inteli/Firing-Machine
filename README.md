@@ -25,12 +25,10 @@
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T2_G4_V(VERSÃO)_Web_application_document.pdf<br>
-  &emsp;| T2_G4_V(VERSÃO)_Web_application_document.docx<br>
+  &emsp;| T2_G4_V(VERSÃO)_Predictive_model_document.pdf<br>
+  &emsp;| T2_G4_V(VERSÃO)_Predictive_model_document.docx<br>
 |--> imagens<br>
 |--> src<br>
-  &emsp;|--> Backend<br>
-  &emsp;|--> Frontend<br>
 | readme.md<br>
 | license.txt
 
@@ -38,30 +36,19 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares ao <b>web application document</b>.
+- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>antigos</b> onde estão presentes as versões anteriores ao <b>predictive model document</b> atual, além de outra pasta <b>outros</b>, onde estarão presentes os documentos complementares ao <b> predictive model document</b>.
 
 - <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
 
-- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema (existem duas subpastas <b>backend</b> e <b>frontend</b> que contêm, respectivamente, o código do servidor e o código da página web).
-
-## 💻 Configuração para desenvolvimento
-
+- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema, com o notebook oficial mais novo e uma pasta com notebooks antigos.
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 0.1.0 - 26/08/2022
+    * Segunda versão do documento e primeira implementação de notebook
+* 0.0.1 - 12/08/2022
+    * Primeiro documento e organização de pastas
 
 ## 📋 Licença/License
 
