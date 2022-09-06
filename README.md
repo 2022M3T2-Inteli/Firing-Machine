@@ -7,6 +7,7 @@
 # Turnover de funcionários
 
 ## Firing Machine
+
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/ana-clara-zaidan/">Ana Clara Loureiro Müller Zaidan</a>
 - <a href="https://www.linkedin.com/in//">Daniel Quintão Dávila</a>
@@ -24,11 +25,12 @@
 ## 📁 Estrutura de pastas
 
 |--> documentos<br>
+  &emsp;| --> antigos <br>
   &emsp;| --> outros <br>
-  &emsp;| T2_G4_V(VERSÃO)_Predictive_model_document.pdf<br>
-  &emsp;| T2_G4_V(VERSÃO)_Predictive_model_document.docx<br>
-|--> imagens<br>
-|--> src<br>
+  &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.pdf<br>
+  &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.docx<br>
+|--> notebooks<br>
+  &emsp;|--> T2_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -40,8 +42,14 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>imagens</b>: imagens relacionadas ao projeto como um todo (por exemplo imagens do sistema, do grupo, logotipos e afins).
 
-- <b>src</b>: nesta pasta encontra-se todo o código fonte do sistema, com o notebook oficial mais novo e uma pasta com notebooks antigos.
+- <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
 
+## 💻 Execução dos projetos
+
+Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
+
+Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
+> Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
 
@@ -52,8 +60,10 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">Turnover de funcionários</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Ana Clara Loureiro Müller Zaidan, Daniel Quintão Dávila, Gabriel Metello Nascimento, Kil Matheus Gomes Teixeira, Lucas Henrique Sales de Souza, Mariana Silva de Paula, Vitória Rodrigues de Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Ana Clara Loureiro Müller Zaidan, Daniel Quintão Dávila, Gabriel Metello Nascimento, Kil Matheus Gomes Teixeira, Lucas Henrique Sales de Souza, Mariana Silva de Paula, Vitória Rodrigues de Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
+
+1. <https://creativecommons.org/share-your-work/>
