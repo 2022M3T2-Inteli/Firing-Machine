@@ -30,6 +30,8 @@
   &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.pdf<br>
   &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
+  &emsp;| --> outros <br>
+  &emsp;|--> T2_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
   &emsp;|--> T2_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
