@@ -10,7 +10,7 @@
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/ana-clara-zaidan/">Ana Clara Loureiro Müller Zaidan</a>
-- <a href="daniel@sirionpar.com.br">Daniel Quintão Dávila</a>
+- Daniel Quintão Dávila
 - <a href="https://www.linkedin.com/in/gabriel-nascimento-b80933217/">Gabriel Metello Nascimento</a> 
 - <a href="https://www.linkedin.com/in/kil-matheus-78257020a/">Kil Matheus Gomes Teixeira</a> 
 - <a href="https://www.linkedin.com/in/lucas-henrique-sales-de-souza/">Lucas Henrique Sales de Souza</a>
@@ -19,8 +19,8 @@
 
 ## 📝 Descrição
 
-<p>  O alto índice de rotatividade de funcionários é o problema cuja resolução nos foi alocada. Encontrar-la-emos via construção de algoritmo de machine learning (ML) que, após identificar padrões nos dados relacionados ao contexto da saída de funcionários da empresa, possibilitará ação imediata sobre eles: "Propor um modelo preditivo que possibilite ter a visibilidade de tendência de risco de saída dos colaboradores e desta forma contribua para ações de retenção e redução de taxa de turnover, [tanto como] revisitar os demais processos de carreira e [de] desenvolvimento" (descrição oficial da demanda).</p>
-<p>  A solução proposta para o problema descrito é a construção de algoritmo de machine learning que, após identificar padrões nos dados relacionados ao contexto da saída de funcionários da empresa, possibilitará ação imediata sobre eles: "Propor um modelo preditivo que possibilite ter a visibilidade de tendência de risco de saída dos colaboradores e desta forma contribua para ações de retenção e redução de taxa de turnover, [tanto como] revisitar os demais processos de carreira e [de] desenvolvimento" (descrição oficial da demanda).</p>
+<p>  O alto índice de rotatividade de funcionários é o problema cuja resolução nos foi alocada. Encontrar-la-emos via construção de algoritmo de machine learning (ML) que, após identificar padrões nos dados relacionados ao contexto da saída de funcionários da empresa, possibilitará ação imediata sobre eles: "Propor um modelo preditivo que possibilite ter a visibilidade de tendência de risco de saída dos colaboradores e desta forma contribua para ações de retenção e redução de taxa de turnover, revisitar os demais processos de carreira e de desenvolvimento" (descrição oficial da demanda).</p>
+<p> A solução proposta para o problema descrito é a construção de algoritmo de machine learning que, após identificar padrões nos dados relacionados ao contexto da saída de funcionários da empresa, melhorará o poder de decisão dos líderes da empresa..</p>
 
 ## 📁 Estrutura de pastas
 
