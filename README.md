@@ -54,6 +54,10 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
+* 0.4.0 - 06/10/2022
+    * Quinta versão do documento e quarta implementação de notebook
+* 0.3.0 - 25/09/2022
+    * Quarta versão do documento e terceira implementação de notebook
 * 0.2.0 - 11/09/2022
     * Terceira versão do documento e segunda implementação de notebook
 * 0.1.0 - 26/08/2022
