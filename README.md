@@ -54,6 +54,10 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
+* 0.4.0 - 06/10/2022
+    * Quinta versão do documento e quarta implementação de notebook
+* 0.3.0 - 25/09/2022
+    * Quarta versão do documento e terceira implementação de notebook
 * 0.2.0 - 11/09/2022
     * Terceira versão do documento e segunda implementação de notebook
 * 0.1.0 - 26/08/2022
@@ -63,10 +67,23 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Ana Clara Loureiro Müller Zaidan, Daniel Quintão Dávila, Gabriel Metello Nascimento, Kil Matheus Gomes Teixeira, Lucas Henrique Sales de Souza, Mariana Silva de Paula, Vitória Rodrigues de Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">turnover de funcionários</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Ana Clara Loureiro Müller Zaidan, Daniel Quintão Dávila, Gabriel Metello Nascimento, Kil Matheus Gomes Teixeira, Lucas Henrique Sales de Souza, Mariana Silva de Paula, Vitória Rodrigues de Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. <https://commons.wikimedia.org/w/index.php?curid=14947263>
+3. <https://blog.swile.com.br/rotatividade-de-funcionarios-fatores-que-influenciam-a-saida-da-empresa/>
+4. <https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/idosos-estao-adiando-cada-vez-mais-saida-do-mercado-de-trabalho>
+5. <https://www.organicadigital.com/blog/algoritmo-de-classificacao-naive-bayes/>
+6. <https://www.digitalhouse.com/br/blog/naive-bayes/>
+7. <https://www.voitto.com.br/blog/artigo/teorema-de-bayes> 
+8. <https://www.suno.com.br/artigos/teorema-de-bayes/> 
+9. <https://edisciplinas.usp.br/pluginfile.php/4469825/mod_resource/content/1/ArvoresDecisao_normalsize.pdf>
+10. <https://www.digitalhouse.com/br/blog/arvore-de-decisao/>
+11. <https://www.youtube.com/watch?v=IHAb3NHDahU>
+12. <https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509>
+13. <https://drive.google.com/file/d/17bDXfgRRXpcNtwCiFpXSs3Zat6LxRdv_/view>
+14. <https://www.academia.edu/43641258/Machine_Learning_na_Pr%C3%A1tica_Modelos_em_Python>
