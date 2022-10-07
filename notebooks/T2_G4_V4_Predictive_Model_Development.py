@@ -1529,13 +1529,13 @@ parameters_arv = { 'criterion':['gini', 'entropy', 'log_loss'],
                   'min_samples_split':range(1,20),
                   'min_samples_leaf':range(1,20)}
 
-random_search_arv = RandomizedSearchCV(arv, parameters_arv)
-random_search_arv
+# random_search_arv = RandomizedSearchCV(arv, parameters_arv)
+# random_search_arv
 
-random_search_arv.fit(x_train, y_train.squeeze())
+# random_search_arv.fit(x_train, y_train.squeeze())
 
-print(random_search_arv.best_score_)
-print(random_search_arv.best_params_)
+# print(random_search_arv.best_score_)
+# print(random_search_arv.best_params_)
 
 """### 6.3.5 - Grid Search
 
@@ -1552,41 +1552,41 @@ parametros = {'criterion':['gini', 'entropy', 'log_loss'],
                   'min_samples_leaf':range(1,20)}
 
 
-grid_search = GridSearchCV(estimator = DecisionTreeClassifier(), param_grid=parametros)
-grid_search.fit(x_train, y_train.squeeze())
+# grid_search = GridSearchCV(estimator = DecisionTreeClassifier(), param_grid=parametros)
+# grid_search.fit(x_train, y_train.squeeze())
 
-print(grid_search.best_score_)
-print(grid_search.best_params_)
+# print(grid_search.best_score_)
+# print(grid_search.best_params_)
 
-arv_best = grid_search.best_estimator_
-arv_best
-arv_best = DecisionTreeClassifier(random_state = 42,
-                                    criterion = 'gini',
-                                    max_depth = 12,
-                                    min_samples_leaf = 2,
-                                    min_samples_split = 23,
-                                    splitter = 'best')
-print(arv_best)
-arv_best.fit(x_train, y_train)
+# arv_best = grid_search.best_estimator_
+# arv_best
+# arv_best = DecisionTreeClassifier(random_state = 42,
+#                                     criterion = 'gini',
+#                                     max_depth = 12,
+#                                     min_samples_leaf = 2,
+#                                     min_samples_split = 23,
+#                                     splitter = 'best')
+# print(arv_best)
+# arv_best.fit(x_train, y_train)
 
 """AVALIAÇÃO DO MODELO COM OS HIPERPARAMETROS DO GRID SEARCH JÁ APLICADOS"""
 
-grid_predict = arv_best.predict(x_test)
-print('Acc treino: ', arv_best.score(x_train, y_train ))
-print('Acc teste: ', arv_best.score(x_test, y_test.squeeze() ))
+# grid_predict = arv_best.predict(x_test)
+# print('Acc treino: ', arv_best.score(x_train, y_train ))
+# print('Acc teste: ', arv_best.score(x_test, y_test.squeeze() ))
 
-plot_confusion_matrix(arv_best, x_train, y_train, cmap='Blues', values_format='.0f')
+# plot_confusion_matrix(arv_best, x_train, y_train, cmap='Blues', values_format='.0f')
 
-# Matrizes de confusão
-print('Matriz de Confusão (treino): ')
-# print(plot_confusion_matrix(y_train, grid_predict))
-print('Matriz de Confusão (teste): ')
-print(confusion_matrix(y_test, p))
+# # Matrizes de confusão
+# print('Matriz de Confusão (treino): ')
+# # print(plot_confusion_matrix(y_train, grid_predict))
+# print('Matriz de Confusão (teste): ')
+# print(confusion_matrix(y_test, p))
 
-# Outras avaliações do modelo puro
-print('Clafssification report: ', classification_report(y_test, p))
-print('Acurácia (treino): ', arv_best.score(x_train, y_train))
-print('Acurácia (teste): ', arv_best.score(x_test, y_test))
+# # Outras avaliações do modelo puro
+# print('Clafssification report: ', classification_report(y_test, p))
+# print('Acurácia (treino): ', arv_best.score(x_train, y_train))
+# print('Acurácia (teste): ', arv_best.score(x_test, y_test))
 
 """###6.3.6 - Teste de Estabilidade do modelo
 
@@ -1602,9 +1602,9 @@ random_state_array = []
 for i in range(0, 500):
   arv = DecisionTreeClassifier(random_state=32,
                              criterion = 'gini',
-                             max_depth = 8,
+                             max_depth = 7,
                              min_samples_leaf = 2,
-                             min_samples_split = 3,
+                             min_samples_split = 2,
                              )
   
   arv.fit(x_train, y_train)
