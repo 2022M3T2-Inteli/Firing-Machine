@@ -74,3 +74,16 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. <https://commons.wikimedia.org/w/index.php?curid=14947263>
+3. <https://blog.swile.com.br/rotatividade-de-funcionarios-fatores-que-influenciam-a-saida-da-empresa/>
+4. <https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/idosos-estao-adiando-cada-vez-mais-saida-do-mercado-de-trabalho>
+5. <https://www.organicadigital.com/blog/algoritmo-de-classificacao-naive-bayes/>
+6. <https://www.digitalhouse.com/br/blog/naive-bayes/>
+7. <https://www.voitto.com.br/blog/artigo/teorema-de-bayes> 
+8. <https://www.suno.com.br/artigos/teorema-de-bayes/> 
+9. <https://edisciplinas.usp.br/pluginfile.php/4469825/mod_resource/content/1/ArvoresDecisao_normalsize.pdf>
+10. <https://www.digitalhouse.com/br/blog/arvore-de-decisao/>
+11. <https://www.youtube.com/watch?v=IHAb3NHDahU>
+12. <https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509>
+13. <https://drive.google.com/file/d/17bDXfgRRXpcNtwCiFpXSs3Zat6LxRdv_/view>
+14. <https://www.academia.edu/43641258/Machine_Learning_na_Pr%C3%A1tica_Modelos_em_Python>
