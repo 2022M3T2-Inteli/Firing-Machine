@@ -24,17 +24,17 @@
 
 ## 📁 Estrutura de pastas
 
-|--> documentos<br>
-  &emsp;| --> antigos <br>
-  &emsp;| --> outros <br>
+|📁--> documentos<br>
+  &emsp;| 📁--> antigos <br>
+  &emsp;| 📁--> outros <br>
   &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.pdf<br>
   &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.docx<br>
-|--> notebooks<br>
-  &emsp;| --> outros <br>
+|📁--> notebooks<br>
+  &emsp;| 📁--> outros <br>
   &emsp;|--> T2_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
   &emsp;|--> T2_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
-| readme.md<br>
-| license.txt
+| -->readme.md<br>
+| -->license.txt
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
@@ -54,10 +54,10 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
-* 0.4.0 - 06/10/2022
-    * Quinta versão do documento e quarta implementação de notebook
+* 1.0.0 - 06/10/2022
+    * Última versão do documento, das apresentações e últimas implementações de notebook (tanto a quarta versão, quanto a final)
 * 0.3.0 - 25/09/2022
-    * Quarta versão do documento e terceira implementação de notebook
+    * Quarta versão do documento e terceira implementação de notebook, além da atualização das apresentações em 'outros' documentos
 * 0.2.0 - 11/09/2022
     * Terceira versão do documento e segunda implementação de notebook
 * 0.1.0 - 26/08/2022
@@ -67,7 +67,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">turnover de funcionários</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Ana Clara Loureiro Müller Zaidan, Daniel Quintão Dávila, Gabriel Metello Nascimento, Kil Matheus Gomes Teixeira, Lucas Henrique Sales de Souza, Mariana Silva de Paula, Vitória Rodrigues de Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">Turnover de funcionários</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Ana Clara Loureiro Müller Zaidan, Daniel Quintão Dávila, Gabriel Metello Nascimento, Kil Matheus Gomes Teixeira, Lucas Henrique Sales de Souza, Mariana Silva de Paula, Vitória Rodrigues de Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
