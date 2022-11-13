@@ -24,15 +24,15 @@
 
 ## 📁 Estrutura de pastas
 
-|📁--> documentos<br>
-  &emsp;| 📁--> antigos <br>
-  &emsp;| 📁--> outros <br>
-  &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T2_G4_V(VERSÃO)_Predictive_Model_Document.docx<br>
-|📁--> notebooks<br>
-  &emsp;| 📁--> outros <br>
-  &emsp;|--> T2_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
-  &emsp;|--> T2_G4_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+|--> documentos<br>
+  &emsp;|--> outros<br>
+  &emsp;|T2_G4_V5_Predictive_Model_Document.pdf<br>
+  &emsp;|T2_G4_V5_Predictive_Model_Document.docx<br>
+|--> imagens<br>
+|--> notebooks<br>
+  &emsp;|-->antigos<br>
+  &emsp;|--> T2_G4_V4_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T2_G4_V4_Predictive_Model_Development.ipynb<br>
 | -->readme.md<br>
 | -->license.txt
 
@@ -66,9 +66,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
     * Primeiro documento e organização de pastas
 
 ## 📋 Licença/License
-
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">Turnover de funcionários</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Ana Clara Loureiro Müller Zaidan, Daniel Quintão Dávila, Gabriel Metello Nascimento, Kil Matheus Gomes Teixeira, Lucas Henrique Sales de Souza, Mariana Silva de Paula, Vitória Rodrigues de Oliveira</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M3T2-Inteli/Firing-Machine">Inteli, Firing Machine</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects/.github/blob/main/profile/README.md">Inteli, <a href="https://www.linkedin.com/in/ana-clara-zaidan/">Ana Clara Loureiro Müller Zaidan</a>, Daniel Quintão Dávila, <a href="https://www.linkedin.com/in/gabriel-nascimento-b80933217/">Gabriel Metello Nascimento</a>, <a href="https://www.linkedin.com/in/kil-matheus-78257020a/">Kil Matheus Gomes Teixeira</a>, <a href="https://www.linkedin.com/in/lucas-henrique-sales-de-souza/">Lucas Henrique Sales de Souza</a>, <a href="https://www.linkedin.com/in/mariana-silva-paula/">Mariana Silva de Paula</a>, <a href="https://www.linkedin.com/in/vitória-rodrigues-de-oliveira-bb955921b/">Vitória Rodrigues de Oliveira</a>.
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
